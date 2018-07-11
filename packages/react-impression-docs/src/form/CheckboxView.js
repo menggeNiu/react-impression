@@ -116,11 +116,12 @@ export default class CheckboxView extends Component {
           </ul>
           <CommenTable
             data={[
-              ['disabled', '设置是否可以点击', 'boolean', 'false'],
-              ['defaultChecked', '设置是否默认选中', 'boolean', ''],
-              ['checked', '设置是否选中', 'boolean', ''],
-              ['onChange', '状态变更回调函数', 'function', ''],
-              ['className', '自定义样式', 'string', ''],
+              ['disabled', '是否可以点击', 'boolean', 'false'],
+              ['defaultChecked', '默认是否选中', 'boolean', '-'],
+              ['checked', '是否选中', 'boolean', '-'],
+              ['onChange', '状态变更回调函数', 'function', '-'],
+              ['className', '自定义样式', 'string', '-'],
+              ['uncertain', '是否半选模式', 'boolean', 'false'],
             ]}
           />
           <h5 className='text-secondary'>CheckboxGroup API</h5>
@@ -129,11 +130,11 @@ export default class CheckboxView extends Component {
           </ul>
           <CommenTable
             data={[
-              ['vlaue', '设置默认是否选中', 'any', ''],
-              ['onChange', '状态变化回调函数', 'function', ''],
+              ['value', '设置选中项', 'array', '-'],
+              ['onChange', '状态变更回调函数', 'function', '-'],
               ['disabled', '是否可以点击', 'boolean', 'false'],
-              ['direction', '排列方向，可选值为 row、column', 'string', 'row'],
-              ['className', '自定义样式', 'string', ''],
+              ['isColumn', '排列方向包括row、column，此参数选择是否为垂直布局', 'boolean', 'false'],
+              ['className', '自定义样式', 'string', '-'],
             ]}
           />
         </Card>
