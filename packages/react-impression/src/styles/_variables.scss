@@ -1084,3 +1084,31 @@ $ps-scrollbar-y-rail-width: 15px !default;
 $ps-scrollbar-y-right: 2px !default;
 $ps-scrollbar-y-width: 6px !default;
 $ps-scrollbar-y-hover-width: 11px !default;
+
+// next-wj add
+$gray-lighter: #d0d0d0 !default;
+$disabled-color: $gray-lighter !default;
+$disabled-bg: #f1f1f1 !default;
+$border-style-base: solid !default;
+$radio-dot-color:                           $brand-primary !default;
+$ease-in-back        : cubic-bezier(.71, -.46, .88, .6);
+
+$checkbox-size:                             14px !default;
+$checkbox-label-space-x:                    $spacer-y / 2 !default;
+$checkbox-space-x:                          $spacer-y !default;
+$checkbox-space-y:                          $spacer-y !default;
+$checkbox-addon-width:                      .5 !default;
+$checkbox-addon-height:                     $checkbox-addon-width !default;
+$checkbox-addon-padding:                    round(($line-height-base * .8 - $checkbox-addon-width) * $font-size-root / 2) !default;
+$checkbox-addon-border-color:               $gray-lighter !default;
+$checkbox-addon-border-radius:              $border-radius-sm !default;
+$checkbox-addon-checked-color:              $brand-primary !default;
+$checkbox-addon-uncertain-color:            $brand-pure !default;
+$checkbox-addon-checked-bg-color:           $brand-primary !default;
+$checkbox-addon-checked-border-color:       $brand-primary !default;
+$checkbox-addon-disabled-checked-color:     $gray-lightest !default;
+$checkbox-addon-transtion:                  all .2s ease !default;
+$checkbox-addon-disabled-bg:                $disabled-bg !default;
+$checkbox-addon-disabled-border-color:      $border-color !default;
+$checkbox-addon-disabled-text:              $disabled-color !default;
+$checkbox-addon-active-box-shadow:          inset 0 0 2rem rgba($checkbox-addon-border-color, .8) !default;
