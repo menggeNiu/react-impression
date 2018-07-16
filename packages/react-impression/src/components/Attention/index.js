@@ -1,1 +1,1 @@
-export default from './Attention'
+export default from './Attention.js'

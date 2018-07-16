@@ -65,7 +65,7 @@ export default class Upload extends PureComponent {
   imagePreviewHandle = event => {
     let { onChange } = this.props,
       file = event.target.files[0],
-      reader = new FileReader()
+      reader = new window.FileReader()
 
     if (file) {
       reader.onload = e => {

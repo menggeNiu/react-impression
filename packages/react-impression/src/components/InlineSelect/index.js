@@ -1,1 +1,1 @@
-export default from './InlineSelect'
+export default from './InlineSelect.js'
