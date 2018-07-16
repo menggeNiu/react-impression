@@ -34,12 +34,12 @@ export default class CheckboxGroup extends PureComponent {
     // 是否disabled
     disabled: PropTypes.bool,
     // 排列方向
-    isColumn: PropTypes.bool,
+    direction: PropTypes.oneOf(['row', 'column']),
   }
   // 默认props
   static defaultProps = {
     disabled: false,
-    isColumn: false,
+    direction: 'row',
   }
   getValue() {
     return this.isPuppet ? this.props.value : this.state.value
@@ -58,7 +58,7 @@ export default class CheckboxGroup extends PureComponent {
           ? [...propsValue, value]
           : [...propsValue.filter(item => item !== value)]
 
-      onChange && onChange(originValue)
+      onChange && onChange(originValue, event)
     } else {
       let originValue = checked
         ? [...this.state.value, value]
@@ -76,7 +76,7 @@ export default class CheckboxGroup extends PureComponent {
   }
   // 渲染
   render() {
-    let { className, isColumn, children, ...others } = this.props
+    let { className, direction, children, ...others } = this.props
 
     children = React.Children.map(children, (child, index) => {
       if (!child) {
@@ -104,7 +104,7 @@ export default class CheckboxGroup extends PureComponent {
       <div
         {...others}
         className={classnames(
-          isColumn ? 'checkbox-vertical' : 'checkbox-inline',
+          direction === 'row' ? 'checkbox-inline' : 'checkbox-vertical',
           className
         )}
       >

@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68005738-51b6-41f2-aa49-e152e9f28078" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.npmrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lerna.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression-codemod/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression-docs/src/form/Checkbox/Basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression-docs/src/form/Checkbox/Column.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression-docs/src/form/Checkbox/Disabled.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression-docs/src/form/Checkbox/Group.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression-docs/src/form/Checkbox/Uncertain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression-docs/src/form/Checkbox/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression-site/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/dist/react-impression.cjs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/dist/react-impression.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/dist/react-impression.esm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Alert/Alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Alert/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Alert/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Attention/Attention.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Attention/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Attention/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/AttentionLink/AttentionLink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/AttentionLink/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/AttentionLink/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Badge/Badge.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Badge/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Badge/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Breadcrumb/Breadcrumb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Breadcrumb/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Breadcrumb/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Button/Button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Button/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Button/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ButtonGroup/ButtonGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ButtonGroup/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ButtonGroup/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ButtonToolbar/ButtonToolbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ButtonToolbar/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ButtonToolbar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Calendar/Calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Calendar/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Calendar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Card/Card.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Card/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Card/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardBlock/CardBlock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardBlock/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardBlock/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardFooter/CardFooter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardFooter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardFooter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardHeader/CardHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardHeader/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CardHeader/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Checkbox/Checkbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Checkbox/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Checkbox/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CheckboxGroup/CheckboxGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CheckboxGroup/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CheckboxGroup/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Col/Col.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Col/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Col/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Collapse/Collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Collapse/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Collapse/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CollapseBody/CollapseBody.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CollapseBody/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CollapseBody/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CollapseTitle/CollapseTitle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CollapseTitle/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/CollapseTitle/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Confirm/Confirm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Confirm/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Confirm/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Container/Container.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Container/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Container/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Content/Content.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Content/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Content/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DatePicker/DatePicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DatePicker/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DatePicker/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Dropdown/Dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Dropdown/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Dropdown/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenu/DropdownMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenu/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenu/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenuDivider/DropdownMenuDivider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenuDivider/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenuDivider/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenuItem/DropdownMenuItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenuItem/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownMenuItem/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownTrigger/DropdownTrigger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownTrigger/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/DropdownTrigger/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Flex/Flex.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Flex/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Flex/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FlexItem/FlexItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FlexItem/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FlexItem/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Form/Form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Form/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Form/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormControl/FormControl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormControl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormControl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormControlLabel/FormControlLabel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormControlLabel/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormControlLabel/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormGroup/FormGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormGroup/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/FormGroup/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Icon/Icon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Icon/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Icon/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Image/Image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Image/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Image/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InlineSelect/InlineSelect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InlineSelect/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InlineSelect/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InlineSelectOption/InlineSelectOption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InlineSelectOption/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InlineSelectOption/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Input/Input.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Input/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Input/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroup/InputGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroup/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroup/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupAddon/InputGroupAddon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupAddon/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupAddon/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupButton/InputGroupButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupButton/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupButton/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupInput/InputGroupInput.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupInput/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/InputGroupInput/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ListGroup/ListGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ListGroup/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ListGroup/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ListGroupItem/ListGroupItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ListGroupItem/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ListGroupItem/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Loading/Loading.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Loading/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Loading/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/LoadingAddon/LoadingAddon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/LoadingAddon/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/LoadingAddon/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Message/Message.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Message/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Message/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/MessageItem/MessageItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/MessageItem/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/MessageItem/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Modal/Modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Modal/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Modal/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalBody/ModalBody.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalBody/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalBody/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalFooter/ModalFooter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalFooter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalFooter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalHeader/ModalHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalHeader/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/ModalHeader/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Nav/Nav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Nav/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Nav/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavItem/NavItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavItem/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavItem/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavLink/NavLink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavLink/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavLink/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavTitle/NavTitle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavTitle/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavTitle/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Navbar/Navbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Navbar/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Navbar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavbarBrand/NavbarBrand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavbarBrand/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavbarBrand/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavbarButton/NavbarButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavbarButton/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/NavbarButton/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Notice/Notice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Notice/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Notice/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Notification/Notification.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Notification/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Notification/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Pagination/Pagination.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Pagination/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Pagination/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Popover/Popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Popover/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Popover/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Progress/Progress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Progress/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Progress/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Radio/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Radio/Radio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Radio/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/RadioGroup/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/RadioGroup/RadioGroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/RadioGroup/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Row/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Row/Row.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Row/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Select/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Select/Select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Select/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SelectOption/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SelectOption/SelectOption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SelectOption/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Sidebar/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Sidebar/Sidebar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Sidebar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarBody/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarBody/SidebarBody.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarBody/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarFooter/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarFooter/SidebarFooter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarFooter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarHeader/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarHeader/SidebarHeader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/SidebarHeader/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Split/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Split/Split.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Split/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Switch/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Switch/Switch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Switch/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Tag/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Tag/Tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Tag/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Timeline/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Timeline/Timeline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Timeline/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/TimelineItem/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/TimelineItem/TimelineItem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/TimelineItem/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Tooltip/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Tooltip/Tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Tooltip/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Upload/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Upload/Upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/Upload/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/components/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/images/bg-login.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/images/user.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/_module.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_attention.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_cards.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_lists.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_message.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_notification.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_perfect-scrollbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_progress.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_tab-focus.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_tag.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_text-hide.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/mixins/_text-truncate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_animation.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_attention.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_breadcrumb.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_button-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_calendar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_card.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_checkbox-new.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_checkbox.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_collapse.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_confirm.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_datepicker.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_images.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_inline-select.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_input-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_input.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_loading.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_message.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_notification.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_perfect-scrollbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_popover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_progress.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_select.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_sidebar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_tag.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_timeline.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_upload.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/modules/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/project/_hljs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/project/_project.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/project/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/utilities/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/utilities/_border.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/utilities/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/utilities/_display.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/utilities/_flex.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/utilities/_spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/utilities/_text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/styles/utilities/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/utils/dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src/utils/system.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Breadcrumb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Breadcrumb_v2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Card/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Card/index.module.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/CommenTable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/ExampleWrapper/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Header.module.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Highlight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Layout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/MarkdownPreview/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/MarkdownPreview/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/components/Sidebar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/images/user.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/styles/_layout.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/styles/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/styles/index.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/app/utils/transferApiTable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/basic/ButtonView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/basic/ImageView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/basic/LayoutView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/basic/TableView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/BadgeView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/ButtonGroupView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/CalendarView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/CardView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/ConfirmView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/DatePickerView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/DropdownView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/ListGroupView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/LoadingView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/ModalView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/Progress/Striped.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/Progress/Theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/Progress/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/ProgressView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/TagView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/component/UtilsClassView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/example/LoginView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/form/CheckboxView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/form/FormView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/form/InputGroupView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/form/InputView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/form/RadioView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/form/SelectView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/form/SwitchView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/form/UploadView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/navigation/BreadcrumbView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/navigation/InlineSelectView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/navigation/NavView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/navigation/NavbarView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/navigation/PaginationView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/navigation/TimelineView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/prompt/AlertView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/prompt/AttentionView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/prompt/MessageView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/prompt/NotificationView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/prompt/PopoverView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/prompt/TooltipView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/provider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/reducers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/src_/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/react-impression/styleguide.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="next" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-impression" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-impression" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68005738-51b6-41f2-aa49-e152e9f28078" name="Default" comment="" />
+      <created>1531706328112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531706328112</updated>
+      <workItem from="1531706329326" duration="741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="741000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/packages/react-impression/src_/provider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-impression/src/components/Progress/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-impression/src/components/Progress/Progress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages/react-impression/src/components/Progress/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="22" column="27" lean-forward="true" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -8,7 +8,7 @@ import TableView from 'src/basic/TableView'
 import LayoutView from 'src/basic/LayoutView'
 // form
 import RadioView from 'src/form/RadioView'
-import CheckboxView from 'src/form/Checkbox'
+import CheckboxView from 'src/form/CheckboxView'
 import SwitchView from 'src/form/SwitchView'
 import SelectView from 'src/form/SelectView'
 import InputView from 'src/form/InputView'
